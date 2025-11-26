@@ -17,7 +17,7 @@ Crie uma função `bubbleSort(lista)` em JavaScript (ou na linguagem de sua pref
 
 ---
 
-### 💻 Exemplo:
+### 💻 Exemplo [I/O] :
 
 **Entrada** do usuário: [8, 3, 10, 4, 6] <br>
 **Saída** de dados processada: [3, 4, 6, 8, 10]
